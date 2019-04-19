@@ -1,0 +1,19 @@
+
+AOP入门开发、几种常见的通知
+com.zhujunwei.spring.demo3
+	ProductDao.java 接口
+	ProductDaoImp.java 要增强的类
+	MyAspectXml.java 切面类（代理类）
+	SpringDemo3.java 测试类
+	
+	主要是配置applicationContext.xml
+	
+	1、将要增强的类和切面类交给Spring管理<bean>
+	2、aop配置
+		切入点
+		切面
+	
+	
+	
+	
+	
